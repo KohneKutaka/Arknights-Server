@@ -1,2 +1,2 @@
 # Arknights-Server
-8
+7
