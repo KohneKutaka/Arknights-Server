@@ -1,0 +1,29 @@
+2023-01-23T08:07:31.882844Z 0 [System] [MY-013169] [Server] C:\Users\king\Desktop\新建文件夹\mysql-8.0.26-winx64\bin\mysqld.exe (mysqld 8.0.26) initializing of server in progress as process 11604
+2023-01-23T08:07:31.882994Z 0 [ERROR] [MY-010338] [Server] Can't find error-message file 'C:\Users\king\Desktop\新建文件夹\mysql-8.0.26-winx64\bin\share\errmsg.sys'. Check error-message file location and 'lc-messages-dir' configuration directive.
+2023-01-23T08:07:31.911223Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-01-23T08:07:32.782517Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-01-23T08:07:34.566702Z 0 [Warning] [MY-013746] [Server] A deprecated TLS version TLSv1 is enabled for channel mysql_main
+2023-01-23T08:07:34.568284Z 0 [Warning] [MY-013746] [Server] A deprecated TLS version TLSv1.1 is enabled for channel mysql_main
+2023-01-23T08:07:34.817222Z 6 [Note] [MY-010454] [Server] A temporary password is generated for root@localhost: 92eg6SnAfV!9
+2023-01-23T08:12:21.004091Z 0 [System] [MY-010116] [Server] C:\Users\king\Desktop\新建文件夹\mysql-8.0.26-winx64\bin\mysqld.exe (mysqld 8.0.26) starting as process 1348
+2023-01-23T08:12:21.004236Z 0 [ERROR] [MY-010338] [Server] Can't find error-message file 'C:\Users\king\Desktop\新建文件夹\mysql-8.0.26-winx64\bin\share\errmsg.sys'. Check error-message file location and 'lc-messages-dir' configuration directive.
+2023-01-23T08:12:21.021272Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-01-23T08:12:21.291500Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-01-23T08:12:21.598216Z 0 [Warning] [MY-013746] [Server] A deprecated TLS version TLSv1 is enabled for channel mysql_main
+2023-01-23T08:12:21.599362Z 0 [Warning] [MY-013746] [Server] A deprecated TLS version TLSv1.1 is enabled for channel mysql_main
+2023-01-23T08:12:21.602499Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-01-23T08:12:21.603542Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-01-23T08:12:21.645358Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-01-23T08:12:21.645794Z 0 [System] [MY-010931] [Server] C:\Users\king\Desktop\新建文件夹\mysql-8.0.26-winx64\bin\mysqld.exe: ready for connections. Version: '8.0.26'  socket: ''  port: 62814  MySQL Community Server - GPL.
+2023-01-23T08:33:50.735396Z 0 [System] [MY-010116] [Server] C:\Users\king\Desktop\新建文件夹\mysql\bin\mysqld.exe (mysqld 8.0.26) starting as process 4768
+2023-01-23T08:33:50.735525Z 0 [ERROR] [MY-010338] [Server] Can't find error-message file 'C:\Users\king\Desktop\新建文件夹\mysql\bin\share\errmsg.sys'. Check error-message file location and 'lc-messages-dir' configuration directive.
+2023-01-23T08:33:50.752984Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-01-23T08:33:51.232651Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-01-23T08:33:51.433606Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2023-01-23T08:33:51.439273Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2023-01-23T08:33:51.480584Z 0 [Warning] [MY-013746] [Server] A deprecated TLS version TLSv1 is enabled for channel mysql_main
+2023-01-23T08:33:51.481751Z 0 [Warning] [MY-013746] [Server] A deprecated TLS version TLSv1.1 is enabled for channel mysql_main
+2023-01-23T08:33:51.485793Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-01-23T08:33:51.488078Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-01-23T08:33:51.538542Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-01-23T08:33:51.538998Z 0 [System] [MY-010931] [Server] C:\Users\king\Desktop\新建文件夹\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.26'  socket: ''  port: 62814  MySQL Community Server - GPL.
