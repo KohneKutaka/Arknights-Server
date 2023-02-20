@@ -1,2 +1,2 @@
 # Arknights-Server
-暂时没完成
+目前在学校，有时间再完善
